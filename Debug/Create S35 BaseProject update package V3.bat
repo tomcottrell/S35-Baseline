@@ -2,7 +2,7 @@ REM Change to project drive
 S:
 
 REM Change to project directory debug sub-directory
-cd S:\EMS\Macquarrie\Admin\PowerVision\TouchGFX\TOM\Mega\ENO_ROC\Debug
+C:\Users\tomc\OneDrive - MacQuarrie\Documents\GitHub\S35-Baseline\Debug
 
 REM Run checksum-append file 'createUpdatePackage.exe'
 REM options:
@@ -21,7 +21,7 @@ rem delete any existing .bin files on connected S35
 del e:\*.bin
 
 REM Copy created file to connected S35
-copy app_S35baseProject.bin D:\
+copy app_S35baseProject.bin E:\
 
 REM Stop terminal screen dissapearing until any key pressed
 pause
