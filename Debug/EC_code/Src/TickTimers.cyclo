@@ -1,0 +1,2 @@
+../EC_code/Src/TickTimers.c:78:6:initialise_timers	1
+../EC_code/Src/TickTimers.c:102:6:update_tick_timers	10

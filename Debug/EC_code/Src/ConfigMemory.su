@@ -1,0 +1,2 @@
+../EC_code/Src/ConfigMemory.c:77:6:SetDefaultConfig	8	static
+../EC_code/Src/ConfigMemory.c:137:6:UpdateAllConfigFeatures	0	static

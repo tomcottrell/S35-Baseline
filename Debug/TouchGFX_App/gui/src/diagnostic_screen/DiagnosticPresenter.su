@@ -1,0 +1,6 @@
+../TouchGFX_App/gui/include/gui/model/ModelListener.hpp:20:18:virtual void ModelListener::systemStateChanged()	0	static
+../TouchGFX_App/gui/include/gui/diagnostic_screen/DiagnosticPresenter.hpp:29:13:DiagnosticPresenter::~DiagnosticPresenter()	0	static
+../TouchGFX_App/gui/src/diagnostic_screen/DiagnosticPresenter.cpp:10:6:virtual void DiagnosticPresenter::activate()	0	static
+../TouchGFX_App/gui/include/gui/diagnostic_screen/DiagnosticPresenter.hpp:29:13:virtual DiagnosticPresenter::~DiagnosticPresenter()	8	static
+../TouchGFX_App/gui/include/gui/diagnostic_screen/DiagnosticPresenter.hpp:29:13:virtual void* DiagnosticPresenter::_ZThn4_N19DiagnosticPresenterD1Ev()	0	static
+../TouchGFX_App/gui/src/diagnostic_screen/DiagnosticPresenter.cpp:4:1:DiagnosticPresenter::DiagnosticPresenter(DiagnosticView&)	0	static

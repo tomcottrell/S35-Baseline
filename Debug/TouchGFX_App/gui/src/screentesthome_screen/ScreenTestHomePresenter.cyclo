@@ -1,0 +1,6 @@
+../TouchGFX_App/gui/include/gui/model/ModelListener.hpp:20:18:virtual void ModelListener::systemStateChanged()	1
+../TouchGFX_App/gui/include/gui/screentesthome_screen/ScreenTestHomePresenter.hpp:29:13:ScreenTestHomePresenter::~ScreenTestHomePresenter()	1
+../TouchGFX_App/gui/src/screentesthome_screen/ScreenTestHomePresenter.cpp:10:6:virtual void ScreenTestHomePresenter::activate()	1
+../TouchGFX_App/gui/include/gui/screentesthome_screen/ScreenTestHomePresenter.hpp:29:13:virtual ScreenTestHomePresenter::~ScreenTestHomePresenter()	1
+../TouchGFX_App/gui/include/gui/screentesthome_screen/ScreenTestHomePresenter.hpp:29:13:virtual void* ScreenTestHomePresenter::_ZThn4_N23ScreenTestHomePresenterD1Ev()	1
+../TouchGFX_App/gui/src/screentesthome_screen/ScreenTestHomePresenter.cpp:4:1:ScreenTestHomePresenter::ScreenTestHomePresenter(ScreenTestHomeView&)	1

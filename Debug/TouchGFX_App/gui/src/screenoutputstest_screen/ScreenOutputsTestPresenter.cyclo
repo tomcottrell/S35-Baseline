@@ -1,0 +1,6 @@
+../TouchGFX_App/gui/include/gui/model/ModelListener.hpp:20:18:virtual void ModelListener::systemStateChanged()	1
+../TouchGFX_App/gui/include/gui/screenoutputstest_screen/ScreenOutputsTestPresenter.hpp:30:13:ScreenOutputsTestPresenter::~ScreenOutputsTestPresenter()	1
+../TouchGFX_App/gui/src/screenoutputstest_screen/ScreenOutputsTestPresenter.cpp:10:6:virtual void ScreenOutputsTestPresenter::activate()	1
+../TouchGFX_App/gui/include/gui/screenoutputstest_screen/ScreenOutputsTestPresenter.hpp:30:13:virtual ScreenOutputsTestPresenter::~ScreenOutputsTestPresenter()	1
+../TouchGFX_App/gui/include/gui/screenoutputstest_screen/ScreenOutputsTestPresenter.hpp:30:13:virtual void* ScreenOutputsTestPresenter::_ZThn4_N26ScreenOutputsTestPresenterD1Ev()	1
+../TouchGFX_App/gui/src/screenoutputstest_screen/ScreenOutputsTestPresenter.cpp:4:1:ScreenOutputsTestPresenter::ScreenOutputsTestPresenter(ScreenOutputsTestView&)	1

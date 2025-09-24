@@ -1,0 +1,6 @@
+../TouchGFX_App/gui/include/gui/model/ModelListener.hpp:20:18:virtual void ModelListener::systemStateChanged()	0	static
+../TouchGFX_App/gui/include/gui/screentrailer_screen/ScreenTrailerPresenter.hpp:29:13:ScreenTrailerPresenter::~ScreenTrailerPresenter()	0	static
+../TouchGFX_App/gui/src/screentrailer_screen/ScreenTrailerPresenter.cpp:10:6:virtual void ScreenTrailerPresenter::activate()	0	static
+../TouchGFX_App/gui/include/gui/screentrailer_screen/ScreenTrailerPresenter.hpp:29:13:virtual ScreenTrailerPresenter::~ScreenTrailerPresenter()	8	static
+../TouchGFX_App/gui/include/gui/screentrailer_screen/ScreenTrailerPresenter.hpp:29:13:virtual void* ScreenTrailerPresenter::_ZThn4_N22ScreenTrailerPresenterD1Ev()	0	static
+../TouchGFX_App/gui/src/screentrailer_screen/ScreenTrailerPresenter.cpp:4:1:ScreenTrailerPresenter::ScreenTrailerPresenter(ScreenTrailerView&)	0	static

@@ -1,0 +1,8 @@
+../TouchGfx_App/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	1
+../TouchGFX_App/gui/src/screenoutputstest_screen/ScreenOutputsTestView.cpp:20:6:virtual void ScreenOutputsTestView::tearDownScreen()	1
+../TouchGFX_App/gui/include/gui/screenoutputstest_screen/ScreenOutputsTestView.hpp:12:13:ScreenOutputsTestView::~ScreenOutputsTestView()	1
+../TouchGFX_App/gui/include/gui/screenoutputstest_screen/ScreenOutputsTestView.hpp:12:13:virtual ScreenOutputsTestView::~ScreenOutputsTestView()	1
+../TouchGFX_App/gui/src/screenoutputstest_screen/ScreenOutputsTestView.cpp:8:1:ScreenOutputsTestView::ScreenOutputsTestView()	1
+../TouchGFX_App/gui/src/screenoutputstest_screen/ScreenOutputsTestView.cpp:15:6:virtual void ScreenOutputsTestView::setupScreen()	1
+../TouchGFX_App/gui/src/screenoutputstest_screen/ScreenOutputsTestView.cpp:29:6:virtual void ScreenOutputsTestView::buttonHandler(uint8_t)	4
+../TouchGFX_App/gui/src/screenoutputstest_screen/ScreenOutputsTestView.cpp:57:6:virtual void ScreenOutputsTestView::handleTickEvent()	1

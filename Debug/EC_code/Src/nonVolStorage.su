@@ -1,0 +1,2 @@
+../EC_code/Src/nonVolStorage.c:153:6:SaveConfigFile	536	static
+../EC_code/Src/nonVolStorage.c:68:6:LoadConfigFile	328	static

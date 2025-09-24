@@ -1,0 +1,7 @@
+../BSP/Src/dma2d_operations.c:31:13:checkRegion	0	static
+../BSP/Src/dma2d_operations.c:40:10:DMA2D_GetBufferAddress	0	static
+../BSP/Src/dma2d_operations.c:44:19:DMA2D_Start	12	static
+../BSP/Src/dma2d_operations.c:63:6:DMA2D_HFlip	32	static
+../BSP/Src/dma2d_operations.c:111:6:DMA2D_VFlip	40	static
+../BSP/Src/dma2d_operations.c:139:6:DMA2D_HFlipRect	40	static
+../BSP/Src/dma2d_operations.c:193:6:DMA2D_VFlipRect	56	static

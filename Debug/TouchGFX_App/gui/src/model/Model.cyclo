@@ -1,0 +1,41 @@
+../TouchGFX_App/gui/src/model/Model.cpp:83:6:void Model::initializeMenuData()	1
+../TouchGFX_App/gui/src/model/Model.cpp:91:6:void Model::initializeSystemState()	1
+../TouchGFX_App/gui/src/model/Model.cpp:76:1:Model::Model()	1
+../TouchGFX_App/gui/src/model/Model.cpp:107:14:MenuSubItem* Model::getCurrentSubItem()	3
+../TouchGFX_App/gui/src/model/Model.cpp:169:6:void Model::updateAlarmState()	2
+../TouchGFX_App/gui/src/model/Model.cpp:183:6:bool Model::isAlarmActive() const	1
+../TouchGFX_App/gui/src/model/Model.cpp:189:13:const char* Model::getAlarmTitle() const	2
+../TouchGFX_App/gui/src/model/Model.cpp:204:13:const char* Model::getAlarmDescription() const	2
+../TouchGFX_App/gui/src/model/Model.cpp:219:6:void Model::processTruckStatus()	5
+../TouchGFX_App/gui/src/model/Model.cpp:251:6:void Model::processTrailerStatus()	5
+../TouchGFX_App/gui/src/model/Model.cpp:284:6:void Model::processErrorConditions()	4
+../TouchGFX_App/gui/src/model/Model.cpp:309:6:void Model::updateFlashingStates()	3
+../TouchGFX_App/gui/src/model/Model.cpp:325:6:void Model::processRollData()	5
+../TouchGFX_App/gui/src/model/Model.cpp:349:6:void Model::processPTOStatus()	2
+../TouchGFX_App/gui/src/model/Model.cpp:363:6:void Model::notifyStateChanged()	3
+../TouchGFX_App/gui/src/model/Model.cpp:373:19:Model::TruckState Model::getTruckState() const	1
+../TouchGFX_App/gui/src/model/Model.cpp:378:19:Model::ErrorState Model::getErrorState() const	1
+../TouchGFX_App/gui/src/model/Model.cpp:383:21:Model::TrailerState Model::getTrailerState() const	1
+../TouchGFX_App/gui/src/model/Model.cpp:388:6:bool Model::getFlashState() const	1
+../TouchGFX_App/gui/src/model/Model.cpp:393:9:int16_t Model::getRollValue() const	1
+../TouchGFX_App/gui/src/model/Model.cpp:398:6:bool Model::isRollValid() const	1
+../TouchGFX_App/gui/src/model/Model.cpp:403:6:bool Model::isPTOActive() const	1
+../TouchGFX_App/gui/src/model/Model.cpp:408:6:bool Model::isPTOValid() const	1
+../TouchGFX_App/gui/src/model/Model.cpp:413:10:uint16_t Model::getTruckPressure() const	1
+../TouchGFX_App/gui/src/model/Model.cpp:418:10:uint16_t Model::getTrailerPressure() const	1
+../TouchGFX_App/gui/src/model/Model.cpp:423:13:const char* Model::getErrorMessage() const	2
+../TouchGFX_App/gui/src/model/Model.cpp:453:13:const char* Model::getTrailerStateMessage() const	2
+../TouchGFX_App/gui/src/model/Model.cpp:466:10:uint16_t Model::getTruckStateBitmapId() const	2
+../TouchGFX_App/gui/src/model/Model.cpp:479:10:uint16_t Model::getTrailerStateBitmapId() const	2
+../TouchGFX_App/gui/src/model/Model.cpp:493:6:void Model::syncMenuItemsToConfig()	1
+../TouchGFX_App/gui/src/model/Model.cpp:118:6:void Model::saveCurrentValue(int32_t)	3
+../TouchGFX_App/gui/src/model/Model.cpp:128:6:void Model::saveCurrentEnumSelection(uint8_t)	3
+../TouchGFX_App/gui/src/model/Model.cpp:528:6:void Model::saveSettingsToFile()	1
+../TouchGFX_App/gui/src/model/Model.cpp:534:6:void Model::loadSettingsFromConfig()	1
+../TouchGFX_App/gui/src/model/Model.cpp:522:6:void Model::loadSettingsFromStorage()	1
+../TouchGFX_App/gui/src/model/Model.cpp:138:6:void Model::tick()	3
+../TouchGFX_App/gui/src/model/Model.cpp:563:6:void Model::bind(void*)	1
+../TouchGFX_App/gui/src/model/Model.cpp:567:9:int32_t Model::constrain(int32_t, int32_t, int32_t)	2
+../TouchGFX_App/gui/src/model/Model.cpp:574:13:const char* Model::getButtonFeedbackMessage(uint8_t, bool) const	14
+../TouchGFX_App/gui/src/model/Model.cpp:636:13:const char* Model::getTrailerButtonFeedbackMessage(uint8_t, bool) const	14
+../TouchGFX_App/gui/src/model/Model.cpp:696:10:uint16_t Model::getTruckOverloadSetpoint() const	1

@@ -1,0 +1,13 @@
+../TouchGfx_App/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	1
+../TouchGfx_App/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	1
+../TouchGFX_App/gui/src/menulayer2_screen/MenuLayer2View.cpp:22:6:virtual void MenuLayer2View::tearDownScreen()	1
+../TouchGFX_App/gui/src/menulayer2_screen/MenuLayer2View.cpp:98:6:virtual void MenuLayer2View::handleEnterButton()	1
+../TouchGFX_App/gui/include/gui/menulayer2_screen/MenuLayer2View.hpp:12:13:MenuLayer2View::~MenuLayer2View()	2
+../TouchGFX_App/gui/include/gui/menulayer2_screen/MenuLayer2View.hpp:12:13:virtual MenuLayer2View::~MenuLayer2View()	1
+../TouchGFX_App/gui/src/menulayer2_screen/MenuLayer2View.cpp:8:1:MenuLayer2View::MenuLayer2View()	2
+../TouchGFX_App/gui/src/menulayer2_screen/MenuLayer2View.cpp:27:6:void MenuLayer2View::initializeMenuItems()	4
+../TouchGFX_App/gui/src/menulayer2_screen/MenuLayer2View.cpp:41:6:void MenuLayer2View::updateCategoryTitle()	2
+../TouchGFX_App/gui/src/menulayer2_screen/MenuLayer2View.cpp:56:6:void MenuLayer2View::updateMenuDisplay()	4
+../TouchGFX_App/gui/src/menulayer2_screen/MenuLayer2View.cpp:76:6:virtual void MenuLayer2View::handleUpButton()	3
+../TouchGFX_App/gui/src/menulayer2_screen/MenuLayer2View.cpp:87:6:virtual void MenuLayer2View::handleDownButton()	3
+../TouchGFX_App/gui/src/menulayer2_screen/MenuLayer2View.cpp:13:6:virtual void MenuLayer2View::setupScreen()	1

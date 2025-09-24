@@ -1,0 +1,2 @@
+../TouchGFX_App/generated/fonts/src/Table_times_10_4bpp.cpp:212:186:void __tcf_0()	0	static
+../TouchGFX_App/generated/fonts/src/Table_times_10_4bpp.cpp:210:26:touchgfx::GeneratedFont& getFont_times_10_4bpp()	72	static

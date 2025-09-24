@@ -1,0 +1,26 @@
+../TouchGfx_App/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	1
+../TouchGFX_App/generated/gui_generated/include/gui_generated/screentrailer_screen/ScreenTrailerViewBase.hpp:35:18:virtual void ScreenTrailerViewBase::GoToCANtestScreen()	1
+../TouchGFX_App/generated/gui_generated/include/gui_generated/screentrailer_screen/ScreenTrailerViewBase.hpp:40:18:virtual void ScreenTrailerViewBase::GoToOutputsTestScreen()	1
+../TouchGFX_App/generated/gui_generated/include/gui_generated/screentrailer_screen/ScreenTrailerViewBase.hpp:45:18:virtual void ScreenTrailerViewBase::GoToInputsTestScreen()	1
+../TouchGFX_App/generated/gui_generated/include/gui_generated/screentrailer_screen/ScreenTrailerViewBase.hpp:50:18:virtual void ScreenTrailerViewBase::GoToHomeScreen()	1
+../TouchGFX_App/generated/gui_generated/include/gui_generated/screentrailer_screen/ScreenTrailerViewBase.hpp:55:18:virtual void ScreenTrailerViewBase::GoToLCDtestScreen()	1
+../TouchGFX_App/gui/src/screentrailer_screen/ScreenTrailerView.cpp:44:6:virtual void ScreenTrailerView::tearDownScreen()	1
+../TouchGFX_App/gui/include/gui/screentrailer_screen/ScreenTrailerView.hpp:26:13:ScreenTrailerView::~ScreenTrailerView()	1
+../TouchGFX_App/gui/include/gui/screentrailer_screen/ScreenTrailerView.hpp:26:13:virtual ScreenTrailerView::~ScreenTrailerView()	1
+../TouchGFX_App/gui/src/screentrailer_screen/ScreenTrailerView.cpp:14:1:ScreenTrailerView::ScreenTrailerView()	1
+../TouchGFX_App/gui/src/screentrailer_screen/ScreenTrailerView.cpp:62:6:void ScreenTrailerView::initializeLatchDisplay()	1
+../TouchGFX_App/gui/src/screentrailer_screen/ScreenTrailerView.cpp:72:6:void ScreenTrailerView::initializeAlarmDisplay()	6
+../TouchGFX_App/gui/src/screentrailer_screen/ScreenTrailerView.cpp:182:6:void ScreenTrailerView::forceUpdatePTODisplay(const Model&)	3
+../TouchGFX_App/gui/src/screentrailer_screen/ScreenTrailerView.cpp:261:6:void ScreenTrailerView::updateButtonStates()	12
+../TouchGFX_App/gui/src/screentrailer_screen/ScreenTrailerView.cpp:419:6:bool ScreenTrailerView::updatePTODisplay(const Model&)	8
+../TouchGFX_App/gui/src/screentrailer_screen/ScreenTrailerView.cpp:469:6:bool ScreenTrailerView::updateButtonFeedbackDisplay(Model&)	11
+../TouchGFX_App/gui/src/screentrailer_screen/ScreenTrailerView.cpp:531:6:bool ScreenTrailerView::updateAlarmDisplay(Model&)	8
+../TouchGFX_App/gui/src/screentrailer_screen/ScreenTrailerView.cpp:583:6:bool ScreenTrailerView::updateLatchDisplay()	3
+../TouchGFX_App/gui/src/screentrailer_screen/ScreenTrailerView.cpp:207:6:virtual void ScreenTrailerView::buttonHandler(uint8_t)	5
+../TouchGFX_App/gui/src/screentrailer_screen/ScreenTrailerView.cpp:111:6:void ScreenTrailerView::forceUpdateTrailerStatusDisplay(const Model&)	3
+../TouchGFX_App/gui/src/screentrailer_screen/ScreenTrailerView.cpp:314:6:bool ScreenTrailerView::updateTrailerStatusDisplay(const Model&)	6
+../TouchGFX_App/gui/src/screentrailer_screen/ScreenTrailerView.cpp:151:6:void ScreenTrailerView::forceUpdateRollDisplay(const Model&)	4
+../TouchGFX_App/gui/src/screentrailer_screen/ScreenTrailerView.cpp:49:6:void ScreenTrailerView::initializeDisplayState()	1
+../TouchGFX_App/gui/src/screentrailer_screen/ScreenTrailerView.cpp:32:6:virtual void ScreenTrailerView::setupScreen()	1
+../TouchGFX_App/gui/src/screentrailer_screen/ScreenTrailerView.cpp:373:6:bool ScreenTrailerView::updateRollDisplay(const Model&)	7
+../TouchGFX_App/gui/src/screentrailer_screen/ScreenTrailerView.cpp:242:6:virtual void ScreenTrailerView::handleTickEvent()	3

@@ -1,0 +1,5 @@
+../EC_code/Src/CAN.c:124:6:clear_CAN_tx_data	1
+../EC_code/Src/CAN.c:143:6:CAN_transmit_coms	19
+../EC_code/Src/CAN.c:364:6:CAN_receive_coms	17
+../EC_code/Src/CAN.c:500:6:HAL_CAN_RxFifo0MsgPendingCallback	4
+../EC_code/Src/CAN.c:528:6:CAN_InitTask	1

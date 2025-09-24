@@ -1,0 +1,19 @@
+../TouchGfx_App/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	1
+../TouchGFX_App/gui/src/menulayer3_screen/MenuLayer3View.cpp:35:6:virtual void MenuLayer3View::tearDownScreen()	1
+../TouchGFX_App/gui/src/menulayer3_screen/MenuLayer3View.cpp:393:6:virtual void MenuLayer3View::handleHomeButton()	3
+../TouchGFX_App/gui/include/gui/menulayer3_screen/MenuLayer3View.hpp:13:13:MenuLayer3View::~MenuLayer3View()	1
+../TouchGFX_App/gui/include/gui/menulayer3_screen/MenuLayer3View.hpp:13:13:virtual MenuLayer3View::~MenuLayer3View()	1
+../TouchGFX_App/gui/src/menulayer3_screen/MenuLayer3View.cpp:367:6:virtual void MenuLayer3View::handleEnterButton()	6
+../TouchGFX_App/gui/src/menulayer3_screen/MenuLayer3View.cpp:6:1:MenuLayer3View::MenuLayer3View()	1
+../TouchGFX_App/gui/src/menulayer3_screen/MenuLayer3View.cpp:46:6:void MenuLayer3View::initializeCurrentItem()	10
+../TouchGFX_App/gui/src/menulayer3_screen/MenuLayer3View.cpp:112:6:void MenuLayer3View::updateDescriptionAndUnits()	6
+../TouchGFX_App/gui/src/menulayer3_screen/MenuLayer3View.cpp:149:6:void MenuLayer3View::updateValueDisplay()	5
+../TouchGFX_App/gui/src/menulayer3_screen/MenuLayer3View.cpp:172:6:void MenuLayer3View::updateEnumDisplay()	7
+../TouchGFX_App/gui/src/menulayer3_screen/MenuLayer3View.cpp:93:6:void MenuLayer3View::updateDisplay()	3
+../TouchGFX_App/gui/src/menulayer3_screen/MenuLayer3View.cpp:311:6:virtual void MenuLayer3View::handleUpButton()	7
+../TouchGFX_App/gui/src/menulayer3_screen/MenuLayer3View.cpp:337:6:virtual void MenuLayer3View::handleDownButton()	8
+../TouchGFX_App/gui/src/menulayer3_screen/MenuLayer3View.cpp:271:6:void MenuLayer3View::processUpButtonHold()	7
+../TouchGFX_App/gui/src/menulayer3_screen/MenuLayer3View.cpp:289:6:void MenuLayer3View::processDownButtonHold()	8
+../TouchGFX_App/gui/src/menulayer3_screen/MenuLayer3View.cpp:410:6:void MenuLayer3View::requestRedraw()	1
+../TouchGFX_App/gui/src/menulayer3_screen/MenuLayer3View.cpp:21:6:virtual void MenuLayer3View::setupScreen()	2
+../TouchGFX_App/gui/src/menulayer3_screen/MenuLayer3View.cpp:195:6:virtual void MenuLayer3View::handleTickEvent()	13

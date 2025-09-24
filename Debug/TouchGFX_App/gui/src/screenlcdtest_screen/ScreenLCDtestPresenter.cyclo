@@ -1,0 +1,6 @@
+../TouchGFX_App/gui/include/gui/model/ModelListener.hpp:20:18:virtual void ModelListener::systemStateChanged()	1
+../TouchGFX_App/gui/include/gui/screenlcdtest_screen/ScreenLCDtestPresenter.hpp:30:13:ScreenLCDtestPresenter::~ScreenLCDtestPresenter()	1
+../TouchGFX_App/gui/src/screenlcdtest_screen/ScreenLCDtestPresenter.cpp:10:6:virtual void ScreenLCDtestPresenter::activate()	1
+../TouchGFX_App/gui/include/gui/screenlcdtest_screen/ScreenLCDtestPresenter.hpp:30:13:virtual ScreenLCDtestPresenter::~ScreenLCDtestPresenter()	1
+../TouchGFX_App/gui/include/gui/screenlcdtest_screen/ScreenLCDtestPresenter.hpp:30:13:virtual void* ScreenLCDtestPresenter::_ZThn4_N22ScreenLCDtestPresenterD1Ev()	1
+../TouchGFX_App/gui/src/screenlcdtest_screen/ScreenLCDtestPresenter.cpp:4:1:ScreenLCDtestPresenter::ScreenLCDtestPresenter(ScreenLCDtestView&)	1

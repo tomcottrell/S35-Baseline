@@ -1,0 +1,24 @@
+../TouchGfx_App/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../TouchGFX_App/generated/gui_generated/include/gui_generated/screentesthome_screen/ScreenTestHomeViewBase.hpp:35:18:virtual void ScreenTestHomeViewBase::GoToCANtestScreen()	0	static
+../TouchGFX_App/generated/gui_generated/include/gui_generated/screentesthome_screen/ScreenTestHomeViewBase.hpp:40:18:virtual void ScreenTestHomeViewBase::GoToInputsTestScreen()	0	static
+../TouchGFX_App/gui/src/screentesthome_screen/ScreenTestHomeView.cpp:98:6:virtual void ScreenTestHomeView::tearDownScreen()	0	static
+../TouchGFX_App/gui/include/gui/screentesthome_screen/ScreenTestHomeView.hpp:26:13:ScreenTestHomeView::~ScreenTestHomeView()	8	static
+../TouchGFX_App/gui/include/gui/screentesthome_screen/ScreenTestHomeView.hpp:26:13:virtual ScreenTestHomeView::~ScreenTestHomeView()	8	static
+../TouchGFX_App/gui/src/screentesthome_screen/ScreenTestHomeView.cpp:480:6:virtual void ScreenTestHomeView::navigateBasedOnVehicleType()	8	static
+../TouchGFX_App/gui/src/screentesthome_screen/ScreenTestHomeView.cpp:17:1:ScreenTestHomeView::ScreenTestHomeView()	8	static
+../TouchGFX_App/gui/src/screentesthome_screen/ScreenTestHomeView.cpp:48:6:void ScreenTestHomeView::initializeLatchDisplay()	8	static
+../TouchGFX_App/gui/src/screentesthome_screen/ScreenTestHomeView.cpp:58:6:void ScreenTestHomeView::initializeAlarmDisplay()	16	static
+../TouchGFX_App/gui/src/screentesthome_screen/ScreenTestHomeView.cpp:234:6:void ScreenTestHomeView::forceUpdatePTODisplay(const Model&)	16	static
+../TouchGFX_App/gui/src/screentesthome_screen/ScreenTestHomeView.cpp:317:6:void ScreenTestHomeView::updateButtonStates()	24	static
+../TouchGFX_App/gui/src/screentesthome_screen/ScreenTestHomeView.cpp:430:6:bool ScreenTestHomeView::updatePTODisplay(const Model&)	24	static
+../TouchGFX_App/gui/src/screentesthome_screen/ScreenTestHomeView.cpp:493:6:bool ScreenTestHomeView::updateButtonFeedbackDisplay(Model&)	24	static
+../TouchGFX_App/gui/src/screentesthome_screen/ScreenTestHomeView.cpp:555:6:bool ScreenTestHomeView::updateAlarmDisplay(Model&)	32	static
+../TouchGFX_App/gui/src/screentesthome_screen/ScreenTestHomeView.cpp:607:6:bool ScreenTestHomeView::updateLatchDisplay()	24	static
+../TouchGFX_App/gui/src/screentesthome_screen/ScreenTestHomeView.cpp:262:6:virtual void ScreenTestHomeView::buttonHandler(uint8_t)	16	static
+../TouchGFX_App/gui/src/screentesthome_screen/ScreenTestHomeView.cpp:116:6:void ScreenTestHomeView::forceUpdateTruckStatusDisplay(const Model&)	32	static
+../TouchGFX_App/gui/src/screentesthome_screen/ScreenTestHomeView.cpp:370:6:bool ScreenTestHomeView::updateTruckStatusDisplay(const Model&)	40	static
+../TouchGFX_App/gui/src/screentesthome_screen/ScreenTestHomeView.cpp:156:6:void ScreenTestHomeView::forceUpdateRollDisplay(const Model&)	24	static
+../TouchGFX_App/gui/src/screentesthome_screen/ScreenTestHomeView.cpp:103:6:void ScreenTestHomeView::initializeDisplayState()	16	static
+../TouchGFX_App/gui/src/screentesthome_screen/ScreenTestHomeView.cpp:34:6:virtual void ScreenTestHomeView::setupScreen()	8	static
+../TouchGFX_App/gui/src/screentesthome_screen/ScreenTestHomeView.cpp:188:6:bool ScreenTestHomeView::updateRollDisplay(const Model&)	24	static
+../TouchGFX_App/gui/src/screentesthome_screen/ScreenTestHomeView.cpp:298:6:virtual void ScreenTestHomeView::handleTickEvent()	16	static
